@@ -11,9 +11,11 @@ As for the preparation phase, it includes three Data Science courses, a business
 
 <img src="images/hi-paris.png" alt="My Image Description" width="400"/>
 
-Visit the Hi!ckathon website;
+<br> 
 
-<br>
+Visit the Hi!ckathon website: https://www.hi-paris.fr/hickathon/
+
+
 
 ## Pre-hickathon Data Science courses
 The pre-h!ckathon phase includes **three Data Science courses** on Feature Engineering, Machine Learning, Deep Learning & Explainability created by the Hi! PARIS Engineering Team.
