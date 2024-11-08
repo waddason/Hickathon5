@@ -6,10 +6,12 @@ The **Hi!ckathon** is a competitive AI and Data Science challenge organized by *
 
 The AI competition is open to students from Institut Polytechnique de Paris, HEC Paris as well as other french and international universities.
 
-Each year, the H!ckathon is split into a 3 week preparation **pre-H!ckathon phase** with three Data Science courses, a business pitch course and a Career Fair, as well as a **final sprint**. This year, the final sprint will take place November 29th to December 2nd 2024.
+The H!ckathon #5 is split into a 3 week preparation **pre-H!ckathon phase** and a **final sprint**, taking place November 29th to December 2nd 2024. 
+As for the preparation phase, it includes three Data Science courses, a business pitch course and a Career Fair.
 
 <img src="images/hi-paris.png" alt="My Image Description" width="400"/>
 
+Visit the Hi!ckathon website;
 
 <br>
 
@@ -17,3 +19,4 @@ Each year, the H!ckathon is split into a 3 week preparation **pre-H!ckathon phas
 The pre-h!ckathon phase includes **three Data Science courses** on Feature Engineering, Machine Learning, Deep Learning & Explainability created by the Hi! PARIS Engineering Team.
 
 This repository contains notebooks and resources for the three technical courses in the `courses/` folder.
+
