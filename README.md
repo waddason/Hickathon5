@@ -6,8 +6,8 @@ The **Hi!ckathon** is a competitive AI and Data Science challenge organized by *
 
 The AI competition is open to students from Institut Polytechnique de Paris, HEC Paris as well as other french and international universities.
 
-The H!ckathon #5 is split into a 3 week preparation **pre-H!ckathon phase** and a **final sprint**, taking place November 29th to December 2nd 2024. 
-As for the preparation phase, it includes three Data Science courses, a business pitch course and a Career Fair.
+The H!ckathon #5 is split into a 3 week preparation **pre-Hi!ckathon phase** (courses + Career Fair) and a **final sprint**, taking place November 29th to December 2nd 2024. 
+
 
 **Visit the Hi!ckathon website**: https://www.hi-paris.fr/hickathon/
 
@@ -16,10 +16,30 @@ As for the preparation phase, it includes three Data Science courses, a business
 <br>
 
 ## Pre-hickathon Data Science courses
-The pre-h!ckathon phase includes **three Data Science courses** on Feature Engineering, Machine Learning, Deep Learning & Explainability created by the Hi! PARIS Engineering Team.
+The pre-h!ckathon phase includes **four Data Science courses** on Feature Engineering, Machine Learning, Deep Learning & Explainability created by the Hi! PARIS Engineering Team.
 
-This repository contains notebooks and resources for the three technical courses. <br> 
-You can find them in the `courses/` folder.
+This repository contains the notebooks of the three technical courses. They are found in the `courses/` folder. <br> 
+
+**How do I download notebooks ?**
+- You can download the notebooks directly on github
+- You can clone the repository locally to load all files directly.
+
+<br>
+
+```
+# Clone the github repository 
+git clone https://github.com/hi-paris/Hickathon5.git
+
+# Create a virtual environment for the repository
+python3 -m venv venv_hi5
+venv_hi5/Scripts/activate # Windows
+source venv_hi5/bin/activate # Linux
+
+# Install package dependencies
+pip install -r requirements.txt
+```
+
+<br>
 
 ## Notebooks on Google colab
 You can also open the notebooks via Google colab:
