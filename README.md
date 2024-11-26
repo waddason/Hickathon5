@@ -44,5 +44,6 @@ pip install -r requirements.txt
 ## Notebooks on Google colab
 You can also open the notebooks via Google colab:
 - **Feature Engineering**: https://drive.google.com/file/d/1vN8_pFNoTmeSfH9F9irl9fwbsj6lCsJv/view?usp=sharing
-
+- **Explainability**: https://drive.google.com/file/d/1nPv-5InyQ6XqoIsrOq5iwxYhNC4XJtvM/view?usp=sharing
+- **Deep Learning**: https://colab.research.google.com/drive/1ZPl35J9lE-2jB6PPe5cR21SX-ljbJNST?usp=sharing
 
