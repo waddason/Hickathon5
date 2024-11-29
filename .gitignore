@@ -3,8 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Datasets
+X_test_Hi5.csv
+X_train_Hi5.csv
+y_test_submission*
+
 # C extensions
 *.so
+
+# Datasets
+X_test_Hi5.csv
+X_train_Hi5.csv
 
 # Distribution / packaging
 .Python
